@@ -1,0 +1,30 @@
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.exe.config
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.exe
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.pdb
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csprojAssemblyReference.cache
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.Form1.resources
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.Properties.Resources.resources
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csproj.GenerateResource.cache
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csproj.CoreCompileInputs.cache
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.exe
+C:\Users\andreja\Desktop\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.pdb
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.exe.config
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.exe
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.pdb
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csprojAssemblyReference.cache
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.Form1.resources
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.Properties.Resources.resources
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csproj.GenerateResource.cache
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csproj.CoreCompileInputs.cache
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.exe
+C:\Users\andreja\Desktop\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.pdb
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.exe.config
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.exe
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\bin\Debug\IzracunavanjeGotovosti.pdb
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csprojAssemblyReference.cache
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.Form1.resources
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.Properties.Resources.resources
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csproj.GenerateResource.cache
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.csproj.CoreCompileInputs.cache
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.exe
+G:\Fakultet\Treca godina semestar II\Pouzdanost informacionih sistema\PouzdanostGotovosti\IzracunavanjeGotovosti\IzracunavanjeGotovosti\obj\Debug\IzracunavanjeGotovosti.pdb
